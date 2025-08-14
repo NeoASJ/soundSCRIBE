@@ -1,4 +1,4 @@
-🔊# SoundScribe – Turn Words Into Wisdom, Instantly
+ # 🔊#SoundScribe – Turn Words Into Wisdom, Instantly
 
 Your voice, your ideas — transformed into text, distilled into knowledge, and spoken back to you.
 SoundScribe is a sleek, Gradio-powered web app designed for professionals, creators, and learners who want fast, accurate audio transcription, intelligent summarization, and listen-on-the-go digest audio — all in one place.
