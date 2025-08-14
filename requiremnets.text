@@ -1,0 +1,6 @@
+gradio
+transformers
+gtts
+torch
+# The Whisper library is typically installed directly from its GitHub repository
+git+https://github.com/openai/whisper.git
