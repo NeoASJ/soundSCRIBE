@@ -1,8 +1,8 @@
-# SoundScribe
+## SoundScribe
 
 A web-based application for transcribing, summarizing, and generating audio from spoken content.
 📝 Description
-SoundScribe is a Gradio-powered web application that automates the process of converting speech to text, generating a concise summary, and then creating an audio version of that summary. It is designed to help users quickly process audio files, such as lectures, meetings, or podcasts, into digestible, written and spoken summaries. The application leverages powerful open-source models for transcription and summarization, providing a seamless and efficient user experience.
+SoundScribe is a Gradio-powered web application that offers a streamlined, automated workflow for processing audio. It effortlessly transforms spoken content into accurate text transcripts, generates a concise, intelligent summary, and even creates a new audio file of that summary. Imagine converting hours of lectures or meetings into a handful of key takeaways, both in written form and as a listenable digest. The application harnesses the power of leading open-source models to provide a seamless, efficient, and visually intuitive user experience.
 
 ✨ Features
 Audio Transcription: Converts spoken audio from uploaded files into accurate text transcripts.
@@ -12,6 +12,9 @@ Text Summarization: Generates a concise summary of the transcribed text using a 
 Summary Audio Generation: Creates a new audio file of the summarized text, allowing for quick consumption of key points.
 
 User-Friendly Interface: Built with Gradio for a simple, intuitive, and interactive web interface.
+
+🎨 Design and UI
+The application features a clean and straightforward user interface, thanks to the Gradio framework. The design prioritizes ease of use, with a single input component for uploading audio files and clearly labeled output components for the transcription, summary, and summarized audio. This minimalistic approach ensures that users can focus on the core functionality of the application without any distractions. The interactive nature of Gradio allows for real-time updates as the application processes the user's input.
 
 💻 Technical Stack
 Gradio: Used to create the web-based user interface.
