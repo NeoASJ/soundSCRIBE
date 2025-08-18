@@ -65,7 +65,7 @@ Podcast Creators 🎧 making highlight reels
 Experience SoundScribe in action:
 https://huggingface.co/spaces/Neoasj/SoundSCRIBE
 
-# use the sm.py file rather than app.py for better gpu acceleration
+# Use sm.py because it contains logic to switch between CUDA and CPU automatically, unlike app.py
 
 # Audio Transcription and Dual Summarization App
 
