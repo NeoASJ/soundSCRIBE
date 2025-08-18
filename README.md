@@ -65,6 +65,7 @@ Podcast Creators 🎧 making highlight reels
 Experience SoundScribe in action:
 https://huggingface.co/spaces/Neoasj/SoundSCRIBE
 
+# use the sm.py file rather than app.py for better gpu acceleration
 
 # Audio Transcription and Dual Summarization App
 
